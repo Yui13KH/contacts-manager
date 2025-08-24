@@ -1,0 +1,11 @@
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactBusinessLayer.dll
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactBusinessLayer.pdb
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactsDataAccessLayer.dll
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\System.Data.SQLite.dll
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\ContactsDataAccessLayer.pdb
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\bin\Release\System.Data.SQLite.xml
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.AssemblyReference.cache
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\Contacts.DFB66D76.Up2Date
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactBusinessLayer.dll
+Y:\programming learning\ContactsWinFormSolution\ContactBusinessLayer\obj\Release\ContactBusinessLayer.pdb

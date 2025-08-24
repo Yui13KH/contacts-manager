@@ -1,0 +1,15 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\18 ADO\Projects\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\bin\Debug\System.Data.SQLite.dll
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\bin\Debug\System.Data.SQLite.xml
+Y:\programming learning\ContactsWinFormSolution\ContactsDataAccessLayer\obj\Debug\Contacts.9AF4DA15.Up2Date
